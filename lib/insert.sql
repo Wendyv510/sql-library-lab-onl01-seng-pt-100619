@@ -1,1 +1,1 @@
-SELECT COUNT * FROM series 
+ 
