@@ -31,3 +31,7 @@ CREATE TABLE characters (
            motto TEXT,
            author_id INTEGER
            );
+           
+CREATE TABLE character_books ( 
+          id INTEGER PRIMARY KEY 
+          );
